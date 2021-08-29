@@ -1,0 +1,4 @@
+ls -l | sort -r | grep [a-g] | wc
+ls | grep pip
+wc textfile1.txt
+echo 'cmdfile3 done executing'

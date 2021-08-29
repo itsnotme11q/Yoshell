@@ -1,0 +1,6 @@
+ls
+cat textfile.txt > textfile1.txt
+# ls >> textfile2.txt --> a commented command
+ls -l | wc -c >> textfile3.txt
+# another comment
+ls -l ../ | grep cpp # Returns cpp files

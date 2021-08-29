@@ -1,0 +1,43 @@
+
+
+487
+487
+487
+487
+487
+495
+495
+495
+495
+487
+487
+487
+487
+487
+487
+487
+487
+
+
+  6  33 172 cmdfile
+
+
+ 4 17 82 cmdfile2.txt
+
+
+ 4 20 96 cmdfile3
+
+
+ 6 13 72 cmdfile4
+
+
+ 5  4 22 textfile1.txt
+
+
+ 2  2 21 textfile2.txt
+
+
+ 39  41 208 textfile3.txt
+
+
+10  8 96 textfile.txt

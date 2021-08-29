@@ -1,0 +1,6 @@
+# multiline file
+ls -l
+exef cmdfile2.txt
+wc \
+cmdfile3 > \
+textfile.txt
